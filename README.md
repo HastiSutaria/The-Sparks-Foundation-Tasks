@@ -10,6 +10,8 @@ This repository contains the tasks that I completed while working as an intern f
 
 In this internship, we were provided a total of 6 Tasks and I was able to successfully complete all the 6 tasks within the given time-frame.
 
+[<img align = center height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>]()
+
 
 ### # Task-1 : Prediction using Supervised ML (Level - Beginner)
 
@@ -28,19 +30,13 @@ In this internship, we were provided a total of 6 Tasks and I was able to succes
 
 
 ### # Task-3 : Prediction using Decision Tree Algorithm(Level - Intermediate)
-_Please click on the images on right side to view my solution._
 
 1. For the given ‘Iris’ dataset, create the Decision Tree classifier and visualize it graphically.
 1. The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
 1. Data can be found at [https://bit.ly/3kXTdox](https://bit.ly/3kXTdox)
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/sL00unmrVKU)
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/kritika-srivastava/The-Sparks-Foundation-Tasks/blob/master/Task-4_Stock_Price.ipynb)
 
 ### # Task-4 : Stock Market Prediction using Numerical and Textual Analysis (Level - Advanced)
-_Please click on the images on right side to view my solution._
-
-**NOTE : If you face any issue over dataset then please refer to the thread of [Issue #2](https://github.com/kritika-srivastava/The-Sparks-Foundation-Tasks/issues/2).**
 
 1. Create a hybrid model for stock price/performance prediction using numerical analysis of historical stock prices, and sentimental analysis of news headlines.
 1. Stock to analyze and predict SENSEX (S&P BSE SENSEX)
@@ -48,11 +44,8 @@ _Please click on the images on right side to view my solution._
 1. Download textual (news) data from [https://bit.ly/36fFPI6](https://bit.ly/36fFPI6)
 1. Use either R or Python, or both for separate analysis and then combine the findings to create a hybrid model.
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/N4AFlnEoigk)
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/kritika-srivastava/The-Sparks-Foundation-Tasks/blob/master/Task-5_Superstore.xlsx)
 
 ### # Task-5 : To Explore Business Analytics (Level - Beginner & Intermediate)
-_Please click on the images on right side to view my solution (preferably youtube)._
 
 1. Perform ‘Exploratory Data Analysis’ on the provided dataset ‘SampleSuperstore’
 1. As a business manager, try to find out the weak areas where you can work to make more profit.
@@ -61,11 +54,9 @@ _Please click on the images on right side to view my solution (preferably youtub
 1. Dataset link :[https://bit.ly/3i4rbWl](https://bit.ly/3i4rbWl)
 1. Create storyboards. Screen record along with your audio explaining the charts and interpretations.
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://youtu.be/PLASL3p3i3Y)
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/kritika-srivastava/The-Sparks-Foundation-Tasks/blob/master/Task-6_Covid19.twb)
 
 ### # Task-6 : Timeline Analysis : Covid-19 (Level - Advanced)
-_Please click on the images on right side to view my solution (preferably youtube)._
+
 
 1. Create a storyboard showing spread of Covid 19 cases in your country or any region (Asia, Europe, BRICS etc)
 1. Use animation, timeline and annotations to create attractive and interactive dashboards and story
